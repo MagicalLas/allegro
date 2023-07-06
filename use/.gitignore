@@ -1,0 +1,8 @@
+# IDE temp file
+.idea
+
+# build output
+main
+
+# test config file
+.use.config
